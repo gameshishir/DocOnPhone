@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549359999375",
+    "project_id": "doconphone-d402f",
+    "storage_bucket": "doconphone-d402f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549359999375:android:9d9a49f9ab22d6ea7513fa",
+        "android_client_info": {
+          "package_name": "com.example.doconphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549359999375-8028nhe5c9jm2hl9pol5ogu1qvo3fge8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQEtGG11aKPMgmMQ_9z97bvOrLdUHm1hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549359999375-8028nhe5c9jm2hl9pol5ogu1qvo3fge8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
